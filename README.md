@@ -1,0 +1,2 @@
+# Inventor_InfoTablo
+Инфотабло
